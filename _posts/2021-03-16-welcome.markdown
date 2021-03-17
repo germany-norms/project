@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome"
+date:   2021-03-16 14:46:28 +0100
+categories: jekyll update
+author: "Elias Dinas, Vicky Fouka, Daniel Ziblatt"
+---
+
+Welcome to the website of our project.
